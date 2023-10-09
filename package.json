@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "knex": "^3.0.1",
+    "pg": "^8.11.3"
+  },
+  "name": "assignment_4",
+  "version": "1.0.0",
+  "description": "database assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FuryFR/Web_Assignment_4.git"
+  },
+  "author": "Nael",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FuryFR/Web_Assignment_4/issues"
+  },
+  "homepage": "https://github.com/FuryFR/Web_Assignment_4#readme"
+}
